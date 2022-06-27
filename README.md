@@ -10,7 +10,7 @@ This project uses Python and csv library to obtain raw data from a CSV file that
 6. Categorised stores in groups by comparing their sizes to see if bigger stores have more items than smaller stores. It was quite obvious, this.
 
 # Screenshot
-![Store Analysis Live Screenshot](file:///C:/Users/ronni/Pictures/Screenshots/Screenshot%20(285).png)
+<img src="https://user-images.githubusercontent.com/91796656/175877610-0a90e8a3-b9e1-43c2-9025-fe3079699793.png" width="90%"></img> 
 
 # Notebook
 [Supermarket Stores Analysis](https://www.kaggle.com/code/faryarmemon/supermarket-stores-analysis/notebook)
